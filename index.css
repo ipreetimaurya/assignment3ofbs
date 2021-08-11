@@ -1,5 +1,33 @@
+
 body{
-background-color:red;
+background-color:#e1e9f5!important;
+}
+
+.full-width{
+width:100%!important;
+padding-left:unset!important;
+padding-right:unset!important;
+}
+
+.bg_img{
+background-image:url("https://wallpaperaccess.com/full/212205.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+height:100vh;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+.bg_content{
+background-color: rgb(255,255,255,0.7);
+height: 300px;
+display: flex;
+align-items: center;
+}
+
+.padcustome{
+padding:5% 2%;
 }
 
 .imgwidth{
